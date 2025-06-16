@@ -28,6 +28,7 @@ A content-based Movie Recommendation System built using **Streamlit** that sugge
 **original_movies.csv**: Contains full details of movies (title, overview, director, poster link, etc.)
 
 **processed_movies.csv**: Contains cleaned/preprocessed titles used for similarity lookup.
+
 ---
 
 ## How It Works
