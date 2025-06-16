@@ -42,7 +42,7 @@ A content-based Movie Recommendation System built using **Streamlit** that sugge
 
 Here's how the app looks:
 
-![Movie Recommendation Screenshot](screenshot1.png)
-![Movie Recommendation Screenshot](screenshot2.png)
-![Movie Recommendation Screenshot](screenshot3.png)
+![Movie Recommendation Screenshot](Screenshot1.png)
+![Movie Recommendation Screenshot](Screenshot2.png)
+![Movie Recommendation Screenshot](Screenshot3.png)
 
